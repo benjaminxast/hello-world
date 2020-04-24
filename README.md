@@ -1,5 +1,9 @@
 # hello-world
 
-hahaha
+my first repository
 
-test2222
+hi there, 
+
+this is benjamin testing github now. 
+
+2020.4.24 is today.
